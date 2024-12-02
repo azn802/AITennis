@@ -13,6 +13,9 @@ AITennis/Library/
 AITennis/Assets/3DModels/
 *.tga
 /[Tt]emp/
+Temp/
+AITennis/Temp/
+
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
